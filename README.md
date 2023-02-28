@@ -3,7 +3,6 @@
 ### Primera evalucaion de MVC. 📚
 
 
-
 # Integrantes 👤
 
 - Siliézar Colocho, Carlos Eduardo - #SC202203
@@ -14,4 +13,4 @@
 
 # LINK 🔗
 
-> PDF: 
+> PDF: https://drive.google.com/file/d/1h4cUXB3zDcktHqXa8ZWDLorICFnu5s3Q/view?usp=sharing
