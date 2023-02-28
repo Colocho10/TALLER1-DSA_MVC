@@ -1,6 +1,6 @@
 # Taller Practico 1 - ASN441 💻
 
-### Primera evalucaion de MVC. 📚
+### Primera evaluación de MVC. 📚
 
 
 # Integrantes 👤
